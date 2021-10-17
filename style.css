@@ -1,0 +1,44 @@
+body{
+ background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 49%, rgba(9,17,126,1) 51%, rgba(0,212,255,1) 100%);;
+color:aqua;
+font-family: 'Space Grotesk', sans-serif;
+}
+#pic{
+width: 100px;
+height: 75px;
+}
+#camera{
+width: 310px;
+height:285px;
+border-width: 2px;
+border-style: ridge;
+box-shadow: 5px 5px 18px white;
+}
+#result{
+    width: 310px;
+    height:285px;
+    border-width: 2px;
+    border-style: ridge;
+    box-shadow: 5px 5px 18px white;
+    }
+.copy_right_footer{
+position:fixed;
+color:white;
+bottom:0;
+width:100%;
+background-color:teal;
+line-height: 3;
+text-align: center;
+}    
+.footer_div h4{
+background: white;
+border-radius: 10px;
+padding: 5px;
+box-shadow: 5px 5px 18px white;
+background-color: black;
+}
+.footer_div img
+{
+width: 70px;
+}
